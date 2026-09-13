@@ -71,12 +71,3 @@ An engineer who thrives on solving complex, system-level challenges. I specializ
 <a href="https://www.linkedin.com/in/yash-waghumbare-a411b221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-waghumbare" height="30" width="40" /></a>
 <a href="mailto:waghumbareyash5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="waghumbareyash5@gmail.com" height="30" width="40" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghumbare&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghumbare&theme=transparent" alt="GitHub profile summary for yashwaghumbare" />
-  </picture>
-</p>
