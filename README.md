@@ -19,8 +19,7 @@ An engineer who thrives on solving complex, system-level challenges. I specializ
 - 🏗️ **Shipping** — Enterprise SSO and Identity Management integrations (SAML, OAuth 2.0, SCIM) and JWT authentication layers handling high-scale enterprise applications.
 - 🧩 **Thinking about** — Agentic workflows, distributed event-driven processing via RabbitMQ, low-latency search optimization with OpenSearch, and system design patterns.
 - 🌱 **Open Source & Hackathons** — Winner (1st Place) of the Entrata India Agentic AI Hackathon; building collaborative multi-agent systems with multimodal capabilities.
-- 💬 **Ask me about** — System Design (LLD & HLD), Full-Stack Development, Identity Management, or Clean Code practices.
-- 😄 **Pronouns** — He/Him/His
+- 💬 **Ask me about** — System Design (LLD & HLD), Full-Stack Development, DSA, Identity Management, or Clean Code practices.
 - ⚡ **Fun fact** — Solved 1000+ DSA problems across various competitive programming platforms.
 
 <br clear="right"/>
