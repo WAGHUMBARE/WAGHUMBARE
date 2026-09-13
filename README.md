@@ -64,10 +64,3 @@ An engineer who thrives on solving complex, system-level challenges. I specializ
 | **[MiniOrange](https://www.miniorange.com/)** *(Software Engineer)* | Engineered enterprise SSO and Identity Management integrations (SAML, OAuth 2.0, SCIM) and JWT authentication layers. Served as Product Owner across 6 key enterprise plugin products, driving recurring revenue beyond \$40,000/month. |
 | **Digital Lost & Found Platform** *(Spring Boot, React, PostgreSQL, ZXing)* | Designed a full-stack, role-based tracking application utilizing ZXing for dynamic QR code generation/scanning, RBAC security, and automated real-time SMS/email alerts via REST APIs. |
 | **Speech Emotion Recognition Web App** *(Python, TensorFlow, Flask)* | Built a deep learning web platform capable of recognizing emotions embedded in human speech utilizing a 2D CNN-LSTM model. |
-
-## 🤝 Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-waghumbare-a411b221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-waghumbare" height="30" width="40" /></a>
-<a href="mailto:waghumbareyash5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="waghumbareyash5@gmail.com" height="30" width="40" /></a>
-</p>
