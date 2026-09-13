@@ -1,52 +1,82 @@
-### Hi there, I'm Yash Waghumbare! 👋
+<h1 align="center">Hi 👋, I'm Yash Waghumbare</h1>
 
-I'm a **Software Engineer** based in Pune, India[cite: 1], specializing in building scalable full-stack architectures[cite: 1], enterprise authentication systems[cite: 1], and AI-driven workflows[cite: 1]. I enjoy turning complex engineering challenges into high-performance, secure, and user-centric applications.
+<h3 align="center">
+Software Engineer · Pune, India<br/>
+An engineer who thrives on solving complex, system-level challenges. I specialize in building scalable full-stack architectures, secure enterprise identity systems, and high-performance AI-driven workflows.
+</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-waghumbare-a411b221b/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:waghumbareyash5@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/yashwaghumbare">GitHub</a>
+</p>
 
-### 💻 Tech Stack & Tools
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yashwaghumbare&label=Profile%20views&color=0e75b6&style=flat" alt="yashwaghumbare" />
+</p>
 
-* **Languages:** TypeScript, JavaScript, Java, Python, SQL, C++, PHP, Google Apps Script[cite: 1]
-* **Frontend:** React.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3, Bootstrap, JQuery[cite: 1]
-* **Backend & Cloud:** Node.js, Nest.JS, Spring Boot, Prisma ORM, RabbitMQ, AWS S3, RESTful APIs, Flask[cite: 1]
-* **Databases & Search:** OpenSearch, PostgreSQL, MySQL, MongoDB[cite: 1]
-* **Core Concepts:** System Design (LLD & HLD), AI Workflow Integration, Microservices, OOP, DSA, Design Patterns, SOLID Principles, Agile/Scrum[cite: 1]
+- 🤖 **Building** — AI-driven metadata enrichment workflows using AI agents and Cursor IDE, and scalable full-stack vendor marketplaces.
+- 🏗️ **Shipping** — Enterprise SSO and Identity Management integrations (SAML, OAuth 2.0, SCIM) and JWT authentication layers handling high-scale enterprise applications.
+- 🧩 **Thinking about** — Agentic workflows, distributed event-driven processing via RabbitMQ, low-latency search optimization with OpenSearch, and system design patterns.
+- 🌱 **Open Source & Hackathons** — Winner (1st Place) of the Entrata India Agentic AI Hackathon; building collaborative multi-agent systems with multimodal capabilities.
+- 💬 **Ask me about** — System Design (LLD & HLD), Full-Stack Development, Identity Management, or Clean Code practices.
+- 😄 **Pronouns** — He/Him/His
+- ⚡ **Fun fact** — Solved 1000+ DSA problems across various competitive programming platforms.
 
----
+<br clear="right"/>
 
-### 💼 Professional Experience
+## 🛠️ Tech Stack
 
-* **Software Engineer at Entrata** *(Apr 2025 – Present | Pune, India)*[cite: 1]
-  * Architected an AI-driven metadata enrichment workflow using AI agents and Cursor IDE, boosting search discoverability by 22% and catalog accuracy by 37%[cite: 1].
-  * Engineered a scalable full-stack Vendor Marketplace platform using NestJS, React.js, Redux Toolkit, and Prisma ORM, integrated with RabbitMQ and OpenSearch[cite: 1].
-* **Software Engineer at MiniOrange** *(Jun 2023 – Apr 2025 | Pune, India)*[cite: 1]
-  * Engineered enterprise SSO and Identity Management integrations (SAML, OAuth 2.0, SCIM) and JWT authentication layers[cite: 1].
-  * Served as Product Owner across 6 key enterprise plugin products, driving recurring product revenue past $40,000/month[cite: 1].
-  * Hardened core security protocols, optimized backend performance, and mentored software engineering interns on TDD practices[cite: 1].
-* **SDE Intern at Persistent** *(Jun 2022 – Aug 2022 | Pune, India)*[cite: 1]
-  * Developed a Java-based enterprise hot seat planning application using Spring Boot and Maven[cite: 1].
-  * Refactored codebases to resolve critical SonarQube vulnerabilities, increasing code quality by 22%[cite: 1].
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redix-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🚀 Featured Projects
+**Backend & Cloud**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-* **Digital Lost & Found Platform with QR Tracking** *(Spring Boot, React, PostgreSQL, ZXing, REST APIs)*[cite: 1]
-  * Designed a full-stack, role-based tracking application utilizing ZXing to generate and scan dynamic QR codes for secure item identification[cite: 1].
-  * Implemented RBAC and automated real-time SMS/email notifications via RESTful APIs upon QR scans[cite: 1].
-* **Speech Emotion Recognition Web Application** *(Python, TensorFlow, Flask)*[cite: 1]
-  * Created a deep learning platform recognizing emotions in human speech using a 2D CNN-LSTM model[cite: 1].
+**Databases & Search**
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
+## 📌 Featured Work & Experience
 
-### 🏆 Achievements & Highlights
+| Project / Role | Description |
+| --- | --- |
+| **[Entrata](https://www.entrata.com/)** *(Software Engineer)* | Architected AI-driven metadata enrichment workflows using AI agents and Cursor IDE (increasing search discoverability by 22% and catalog accuracy by 37%). Engineered scalable full-stack Vendor Marketplaces using NestJS, React, Redux, Prisma, RabbitMQ, and OpenSearch. |
+| **[MiniOrange](https://www.miniorange.com/)** *(Software Engineer)* | Engineered enterprise SSO and Identity Management integrations (SAML, OAuth 2.0, SCIM) and JWT authentication layers. Served as Product Owner across 6 key enterprise plugin products, driving recurring revenue beyond \$40,000/month. |
+| **Digital Lost & Found Platform** *(Spring Boot, React, PostgreSQL, ZXing)* | Designed a full-stack, role-based tracking application utilizing ZXing for dynamic QR code generation/scanning, RBAC security, and automated real-time SMS/email alerts via REST APIs. |
+| **Speech Emotion Recognition Web App** *(Python, TensorFlow, Flask)* | Built a deep learning web platform capable of recognizing emotions embedded in human speech utilizing a 2D CNN-LSTM model. |
 
-* **1st Place, Entrata India Agentic AI Hackathon:** Developed a collaborative multi-agent system with multimodal capabilities to reduce developer intervention and support costs[cite: 1].
-* **Competitive Programming:** Solved 1000+ DSA problems across multiple coding platforms[cite: 1].
+## 🤝 Connect
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-waghumbare-a411b221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-waghumbare" height="30" width="40" /></a>
+<a href="mailto:waghumbareyash5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="waghumbareyash5@gmail.com" height="30" width="40" /></a>
+</p>
 
-### 📫 How to Reach Me
+## 📊 GitHub Stats
 
-* **LinkedIn:** [Yash Waghumbare](https://www.linkedin.com/in/yash-waghumbare-a411b221b/)[cite: 1]
-* **Email:** waghumbareyash5@gmail.com[cite: 1]
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghumbare&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwaghumbare&theme=transparent" alt="GitHub profile summary for yashwaghumbare" />
+  </picture>
+</p>
